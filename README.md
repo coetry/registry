@@ -1,1 +1,1 @@
-Run `node tools/dev_server.js`
+Run `npm i && node tools/dev_website.js`
